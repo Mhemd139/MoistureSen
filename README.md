@@ -5,7 +5,7 @@
 This project involves building a moisture sensor detection system that collects data from a moisture sensor and sends it to a Firebase database. The collected data can then be processed by an IoT (Internet of Things) application.
 
 ## Features
-
+- Wifi Connection
 - Moisture sensor data collection.
 - Firebase integration for data storage.
 - Connectivity with an IoT application for real-time monitoring and analysis.
