@@ -18,11 +18,11 @@ using namespace std;
 #define WIFI_PASSWORD "12345678931"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDq0iM7txWmKMlEwcdx9cDL8yCQiMQ6yf4"
+#define API_KEY ""
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "mhemd.masa@gmail.com"
-#define USER_PASSWORD "Muhammed139"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // Insert RTDB URLefine the RTDB URL
 #define DATABASE_URL "https://smardrop13-default-rtdb.firebaseio.com/"
